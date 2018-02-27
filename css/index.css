@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+.swiper-container,
+.swiper-slide {
+    height: 100%;
+}
+
+.swiper-slide {
+    overflow: hidden;
+}
+
+.swiper-slide img {
+    width: 100%;
+}
+
+.caishen3 {
+    height: 1000px;
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}
+
+.paomadeng {
+    position: relative;
+    top: 20px;
+}
+
+.pic-left {
+    position: relative;
+    left: 20px;
+    top: 100px;
+    width: 50px;
+    height: 40px;
+    font-size: 30px;
+    z-index: 3;
+}
+
+.pic-right {
+    position: absolute;
+    right: 20px;
+    width: 34px;
+    height: 100px;
+    font-size: 28px;
+    top: 119px;
+}
+
+.desc-detail {
+    font-size: 14px;
+    align-content: center;
+    font-family: "Glyphicons Halflings"
+}
+
+.xx {
+    border: 5px red
+}
